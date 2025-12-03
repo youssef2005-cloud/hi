@@ -1,2 +1,4 @@
 requests
 httpagentparser
+discord.py
+openai
